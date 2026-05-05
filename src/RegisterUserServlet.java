@@ -11,8 +11,11 @@ public class RegisterUserServlet extends HttpServlet {
         // Implementation for registering a user
 
 
-ame passsword ){1
-';''4
+        if(me passsword ){
+
+            ghhghk
+                    kkj
+                    hh
             ads
 
             nkhbhkjnlk4
