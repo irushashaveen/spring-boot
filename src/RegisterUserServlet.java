@@ -9,5 +9,12 @@ import java.io.IOException;
 public class RegisterUserServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // Implementation for registering a user
+
+
+        if(username passsword ){
+            ads
+        }else{
+            
+        }
     }
 }
